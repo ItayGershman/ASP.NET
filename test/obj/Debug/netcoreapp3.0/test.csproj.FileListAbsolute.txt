@@ -1,0 +1,70 @@
+c:\Users\איתי גרשמן\test\bin\Debug\netcoreapp3.0\appsettings.Development.json
+c:\Users\איתי גרשמן\test\bin\Debug\netcoreapp3.0\appsettings.json
+c:\Users\איתי גרשמן\test\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+c:\Users\איתי גרשמן\test\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\איתי גרשמן\test\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\איתי גרשמן\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\איתי גרשמן\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+c:\Users\איתי גרשמן\test\bin\Debug\netcoreapp3.0\test.dll
+c:\Users\איתי גרשמן\test\bin\Debug\netcoreapp3.0\test.pdb
+C:\Users\איתי גרשמן\test\bin\Debug\netcoreapp3.0\test.Views.dll
+c:\Users\איתי גרשמן\test\bin\Debug\netcoreapp3.0\test.Views.pdb
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.RazorAssemblyInfo.cache
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.RazorAssemblyInfo.cs
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.TagHelpers.input.cache
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.TagHelpers.output.cache
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.RazorCoreGenerate.cache
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cs
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.Views.pdb
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.dll
+c:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.pdb
+C:\Users\איתי גרשמן\test\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\bin\Debug\netcoreapp3.0\test.dll
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\bin\Debug\netcoreapp3.0\test.pdb
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\bin\Debug\netcoreapp3.0\test.Views.dll
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\bin\Debug\netcoreapp3.0\test.Views.pdb
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.csprojAssemblyReference.cache
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.Manifest.cache
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\staticwebassets\test.StaticWebAssets.xml
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.RazorAssemblyInfo.cache
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.RazorAssemblyInfo.cs
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.TagHelpers.input.cache
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.TagHelpers.output.cache
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.RazorCoreGenerate.cache
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cache
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.RazorTargetAssemblyInfo.cs
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.Views.pdb
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.dll
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.pdb
+C:\Users\איתי גרשמן\Desktop\שנקר 2017-2022\third year3\Full Stack\שיעור 2\C# ex's\test\obj\Debug\netcoreapp3.0\test.csproj.CopyComplete
